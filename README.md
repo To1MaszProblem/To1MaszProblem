@@ -1,8 +1,6 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&show_icons=true&theme=transparent">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&theme=blue-green">
-
-## Hello 👋
+## Hi 👋
 
 I'm Tomek <br>
 I'm Junior Java developer.
