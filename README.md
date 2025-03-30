@@ -5,8 +5,6 @@
 I'm Tomek <br>
 I'm Junior Java developer. <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&show_icons=true&theme=transparent">
-
 
 ## Other languages & frameworks
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -19,3 +17,7 @@ I'm Junior Java developer. <br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## Stats
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&show_icons=true&theme=transparent">
