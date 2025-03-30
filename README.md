@@ -1,9 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&show_icons=true&theme=transparent">
+
 
 ## Hi 👋
 
 I'm Tomek <br>
 I'm Junior Java developer. <br>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=To1MaszProblem&show_icons=true&theme=transparent">
 
 
 ## Other languages & frameworks
