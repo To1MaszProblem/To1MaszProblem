@@ -3,7 +3,7 @@
 ## Hi 👋
 
 I'm Tomek <br>
-I'm Junior Java developer.
+I'm Junior Java developer. <br>
 
 
 ## Other languages & frameworks
